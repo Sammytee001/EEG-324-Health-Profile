@@ -60,7 +60,7 @@ namespace EEG_324_Health_Records
             Console.WriteLine("Month of Birth: {0}", MonthOfBirth);
         }
 
-        //set and get _yearOfBirth
+
         public int YearOfBirth
         {
             get
